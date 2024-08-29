@@ -1,0 +1,19 @@
+body {
+  background-color: chocolate;
+}
+
+h1 {
+  color: rgb(254, 254, 254);
+}
+
+.main {
+  width: auto;
+  height: auto;
+}
+
+.post {
+  border: 3px solid black;
+  border-radius: 5px;
+  background-color: aliceblue;
+  width: 300px;
+}
